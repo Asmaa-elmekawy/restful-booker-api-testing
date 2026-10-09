@@ -9,7 +9,6 @@ A Postman API testing project for the Restful Booker API, focused on validating 
 * Postman
 * REST API
 * JavaScript (Postman test scripts)
-* JSON
 * Git & GitHub
 
 ## Test Coverage
@@ -24,7 +23,6 @@ A Postman API testing project for the Restful Booker API, focused on validating 
 
 * Retrieve booking details.
 * Create a new booking.
-* Update an existing booking.
 * Partially update booking details.
 * Delete a booking.
 
@@ -34,8 +32,7 @@ A Postman API testing project for the Restful Booker API, focused on validating 
 * Invalid authentication token.
 * Missing required fields.
 * Invalid data types.
-* Unauthorized requests.
-
+  
 ### 4. Data Validation
 
 * Response schema validation.
